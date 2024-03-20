@@ -1,0 +1,12 @@
+nav,ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+}
+nav{
+    background-color: bisque;
+}
+ul{
+    gap: 30px;
+}
